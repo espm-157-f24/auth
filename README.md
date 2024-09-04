@@ -1,2 +1,4 @@
 # auth
-Authentication template
+
+Authentication notebook for gh-scoped-creds
+
